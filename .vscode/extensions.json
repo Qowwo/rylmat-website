@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "ecmel.vscode-html-css",
+    "editorconfig.editorconfig",
+    "lokalise.i18n-ally",
+    "hex-ci.stylelint-plus",
+    "ms-vscode.live-server",
+    "simonsiefke.svg-preview",
+    "pranaygp.vscode-css-peek",
+    "wayou.vscode-todo-highlight",
+    "naumovs.color-highlight",
+    "bierner.color-info",
+    "formulahendry.auto-complete-tag",
+    "ms-vscode.makefile-tools",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
